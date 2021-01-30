@@ -3,7 +3,12 @@
 **NOTE**
 
 Main project code repository is private.
-Please check Report & demo folder for more details.
+
+## Demo:
+please visit: https://youtu.be/05OW8wQAZ3Y
+
+## Report:
+please check Finsta-Report.pdf
 
 ### Overview -
 This webapp is social networking platform to connect and share the photos and messages with your friends and family.
